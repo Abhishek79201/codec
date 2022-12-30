@@ -69,7 +69,9 @@
 }
 
 /* CUSTOM FEED */
-
+.body {
+  height: -webkit-fill-available;
+}
 .chat-feed {
   height: 100%;
   width: 100%;
